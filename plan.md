@@ -12,3 +12,7 @@ Systems to implement:
    - Wall Jump https://www.youtube.com/watch?v=pd1KZASjSy0
    - Rocket Jump*
    - Sprinting
+
+Helpful links:
+https://www.youtube.com/watch?v=WRG-5xlQDU8
+https://www.youtube.com/watch?v=pd1KZASjSy0
