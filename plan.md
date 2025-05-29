@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=pd1KZASjSy0
 
 https://www.youtube.com/watch?v=He4O4pdfoYI
 
+
+
 Progress:
 
 1) Quake-like movement
@@ -32,8 +34,9 @@ Progress:
 
 TODO:
 
-- [ ] Documentation
+- [x] Documentation
 - [ ] Make projectiles not be able to hit Gun or Character meshes (for fixing rocket jumping)
+- [ ] https://www.youtube.com/watch?v=O-m1tARfNRU
 
 To Document:
 
